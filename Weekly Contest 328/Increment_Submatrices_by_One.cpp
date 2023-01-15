@@ -37,4 +37,5 @@ int main()
     int n = 3;
     vector<vector<int>> v = {{1, 1, 2, 2}, {0, 0, 1, 1}};
     rangeAddQueries(n, v);
+    return 0;
 }
