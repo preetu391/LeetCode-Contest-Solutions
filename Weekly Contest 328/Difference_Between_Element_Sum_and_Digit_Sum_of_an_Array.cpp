@@ -12,6 +12,7 @@ int digitsum(int num)
     return s;
 }
 
+
 int differenceOfSum(vector<int> &nums)
 {
     int sum = 0, digisum = 0;
